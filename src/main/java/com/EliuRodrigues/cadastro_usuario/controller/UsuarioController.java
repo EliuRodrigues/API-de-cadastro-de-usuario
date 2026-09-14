@@ -1,7 +1,7 @@
-package com.javanauta.cadastro_usuario.controller;
+package com.EliuRodrigues.cadastro_usuario.controller;
 
-import com.javanauta.cadastro_usuario.business.UsuarioService;
-import com.javanauta.cadastro_usuario.infrastructure.entitys.Usuario;
+import com.EliuRodrigues.cadastro_usuario.business.UsuarioService;
+import com.EliuRodrigues.cadastro_usuario.infrastructure.entitys.Usuario;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
